@@ -1,0 +1,12 @@
+.container:hover{
+    box-shadow: 4px 4px 4px 8px rgb(137, 127, 127);
+}
+body{
+    background-color: chocolate;
+}
+button:hover{
+    cursor: pointer;
+    box-shadow: 4px 4px 8px rgb(118, 165, 151);
+    background-color: aqua;
+    border-radius: 10px;
+}
